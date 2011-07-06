@@ -7,3 +7,5 @@ sudo kextutil "/Library/Parallels/Parallels Service.app/Contents/Kexts/10.6/prl_
 sudo kextutil "/Library/Parallels/Parallels Service.app/Contents/Kexts/10.6/prl_usb_connect.kext"
 sudo kextutil "/Library/Parallels/Parallels Service.app/Contents/Kexts/10.6/prl_netbridge.kext"
 sudo kextutil "/Library/Parallels/Parallels Service.app/Contents/Kexts/10.6/prl_vnic.kext"
+
+open -a "/Applications/Parallels Desktop.app"
